@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "synthetic": true,
+  "purpose": "Navigation themes only. Not a diagnostic system.",
+  "themes": [
+    {
+      "id": "academic-stress",
+      "label": "Academic stress",
+      "keywords": [
+        "academic",
+        "exam",
+        "exams",
+        "college",
+        "university",
+        "studies",
+        "studying",
+        "assignment",
+        "assignments",
+        "campus",
+        "semester",
+        "grades"
+      ]
+    },
+    {
+      "id": "work-stress",
+      "label": "Work stress",
+      "keywords": [
+        "work",
+        "workload",
+        "office",
+        "boss",
+        "job",
+        "career",
+        "deadline",
+        "deadlines",
+        "colleague",
+        "colleagues",
+        "workplace"
+      ]
+    },
+    {
+      "id": "anxiety",
+      "label": "Anxiety-related concerns",
+      "keywords": [
+        "anxious",
+        "anxiety",
+        "worry",
+        "worried",
+        "panic",
+        "overwhelm",
+        "overwhelmed",
+        "racing thoughts"
+      ]
+    },
+    {
+      "id": "relationships",
+      "label": "Relationship concerns",
+      "keywords": [
+        "relationship",
+        "relationships",
+        "partner",
+        "family",
+        "friend",
+        "friends",
+        "marriage",
+        "spouse",
+        "parent",
+        "parents"
+      ]
+    },
+    {
+      "id": "low-motivation",
+      "label": "Low motivation",
+      "keywords": [
+        "unmotivated",
+        "low motivation",
+        "no motivation",
+        "can't get started",
+        "cannot get started",
+        "apathy",
+        "stuck"
+      ]
+    },
+    {
+      "id": "sleep",
+      "label": "Sleep difficulties",
+      "keywords": [
+        "sleep",
+        "insomnia",
+        "restless",
+        "tired",
+        "can't switch off",
+        "cannot switch off",
+        "switch off"
+      ]
+    },
+    {
+      "id": "adjustment",
+      "label": "Adjustment difficulties",
+      "keywords": [
+        "moved cities",
+        "new city",
+        "settling in",
+        "transition",
+        "adjusting",
+        "starting over",
+        "relocation"
+      ]
+    },
+    {
+      "id": "social-disconnection",
+      "label": "Social disconnection",
+      "keywords": [
+        "lonely",
+        "loneliness",
+        "isolated",
+        "isolation",
+        "disconnected",
+        "left out",
+        "no one to talk to"
+      ]
+    },
+    {
+      "id": "work-life-balance",
+      "label": "Work-life balance",
+      "keywords": [
+        "work-life",
+        "work life",
+        "after hours",
+        "after-hours",
+        "no time off",
+        "always on",
+        "boundaries at work"
+      ]
+    }
+  ]
+}
