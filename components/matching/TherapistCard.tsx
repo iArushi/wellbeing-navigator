@@ -34,9 +34,13 @@ export function TherapistCard({
     preferences.language === "No preference"
       ? profile.languages[0]
       : preferences.language;
-  const tags = [languageTag, preferences.sessionMode].filter(
-    (tag): tag is NonNullable<typeof tag> => Boolean(tag),
-  );
+  const tags: string[] = [];
+
+  if (languageTag) {
+    tags.push(languageTag);
+  }
+
+  tags.push(preferences.sessionMode);
 
   return (
     <article className="flex h-full flex-col rounded-[2rem] border border-line/80 bg-surface-raised p-6 shadow-(--shadow-quiet)">
