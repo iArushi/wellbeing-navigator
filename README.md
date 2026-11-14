@@ -54,6 +54,18 @@ Details that keep the ranking honest:
 
 `academic-stress`, `work-stress`, `anxiety`, `relationships`, `low-motivation`, `sleep`, `adjustment`, `social-disconnection`, `work-life-balance`.
 
+## Product management case study
+
+This repo doubles as a PM portfolio project. The prototype is the artefact, and the docs show the thinking behind it.
+
+| Document | What it covers |
+| --- | --- |
+| [`docs/case-study.md`](docs/case-study.md) | Problem framing, personas and jobs to be done, opportunity solution tree, decisions and trade-offs, metrics, RICE and roadmap, risks and ethics, experiment plan |
+| [`docs/frameworks.md`](docs/frameworks.md) | A toolkit of 22 PM frameworks (JTBD, Kano, RICE, MoSCoW, North Star, HEART, AARRR, pre-mortem, decision records, Responsible AI checklist, PRD and experiment templates), each with a worked example and a template |
+| [`docs/keynote.md`](docs/keynote.md) | A 16-slide keynote with speaker notes, written for [Marp](https://marp.app/) (use the Marp extension in VS Code or Cursor, or `npx @marp-team/marp-cli docs/keynote.md --pptx`) |
+
+The case study has no real user research behind it. Personas, metrics and RICE numbers are labelled as hypotheses or illustrations.
+
 ## Prototype limitations
 
 - Therapist profiles, availability, scores and sample session feedback are **fictional and unvalidated**.
